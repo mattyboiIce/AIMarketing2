@@ -3,7 +3,7 @@
 
 <p>
     <a href="google.com">
-        Mart is gayy and also
+        Mart is super hot
     </a>
     <span style="color: red">Super</span>
     <span style="color: orange">Jase is super Gayyyyyy</span>
